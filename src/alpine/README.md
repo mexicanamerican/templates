@@ -7,7 +7,7 @@ Simple Alpine container with Git installed.
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| imageVariant | Alpine version: | string | 3.22 |
+| imageVariant | Alpine version: | string | 3.23 |
 
 This template references an image that was [pre-built](https://containers.dev/implementors/reference/#prebuilding) to automatically include needed devcontainer.json metadata.
 
@@ -17,4 +17,4 @@ This template references an image that was [pre-built](https://containers.dev/im
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/devcontainers/templates/blob/main/src/alpine/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-template.json](https://github.com/mexicanamerican/templates/blob/main/src/alpine/devcontainer-template.json).  Add additional notes to a `NOTES.md`._
